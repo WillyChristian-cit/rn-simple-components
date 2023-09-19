@@ -1,0 +1,11 @@
+{
+  "name": "rn-simple-components",
+  "version": "1.0.0",
+  "description": "A simple package with a couple of commom react-native components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willy Christian <willy.co.teixeira@gmail.com>",
+  "license": "MIT"
+}
